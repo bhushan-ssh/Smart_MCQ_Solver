@@ -1,4 +1,4 @@
-# Smart MCQ Solver — Answer Ranking 
+# Smart MCQ Solver — Answer Ranking
 
 **Deep Learning & Generative AI Project**
 
