@@ -1,6 +1,5 @@
 # Smart MCQ Solver 
 
-
 **Deep Learning & Generative AI Project**
 
 ---
